@@ -70,7 +70,7 @@ This project is licensed under the MIT License.
 GitHub: noor-glith
 
 yaml
-Copy code
+
 
 ---
 
